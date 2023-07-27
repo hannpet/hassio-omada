@@ -4,7 +4,7 @@
 
 [TP-Link Omada Controller](https://www.tp-link.com/us/business-networking/omada-sdn-controller/) to control [TP-Link Omada Hardware](https://www.tp-link.com/en/business-networking/all-omada/).
 
-This addon was forked from https://github.com/alexbelgium/hassio-addons/omada
+This addon was forked from https://github.com/alexbelgium/hassio-addons/tree/master/omada
 
 It is originally based on the docker image https://hub.docker.com/r/mbentley/omada-controller
 
